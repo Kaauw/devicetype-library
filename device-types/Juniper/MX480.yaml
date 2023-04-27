@@ -2,6 +2,75 @@
 manufacturer: Juniper
 model: MX480
 slug: mx480
-u_height: 8
+part_number: 750-047862
+u_height: 8.0
 is_full_depth: true
+subdevice_role: parent
+airflow: side-to-rear
 comments: '[Juniper MX480 Data Sheet](https://www.juniper.net/us/en/products-services/routing/mx-series/mx480/)'
+power-ports:
+- name: PEM 0
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+  label: ''
+  description: Power supply
+- name: PEM 1
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+  label: ''
+  description: Power supply
+- name: PEM 2
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+  label: ''
+  description: Power supply
+- name: PEM 3
+  type: ''
+  maximum_draw: null
+  allocated_draw: null
+  label: ''
+  description: Power supply
+module-bays:
+- name: CB 0
+  label: ''
+  position: cb0
+  description: Control board
+- name: CB 1
+  label: ''
+  position: cb1
+  description: Control board
+- name: FPC0
+  label: ''
+  position: '0'
+  description: FPC Slot for linecards
+- name: FPC1
+  label: ''
+  position: '1'
+  description: FPC Slot for linecards
+- name: FPC2
+  label: ''
+  position: '2'
+  description: FPC Slot for linecards
+- name: FPC3
+  label: ''
+  position: '3'
+  description: FPC Slot for linecards
+- name: FPC4
+  label: ''
+  position: '4'
+  description: FPC Slot for linecards
+- name: FPC5
+  label: ''
+  position: '5'
+  description: FPC Slot for linecards
+- name: re0
+  label: ''
+  position: re0
+  description: Routing Engines
+- name: re1
+  label: ''
+  position: re1
+  description: Routing Engines
